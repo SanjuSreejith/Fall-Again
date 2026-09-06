@@ -18,7 +18,11 @@ The game focuses on challenging gameplay, where players must overcome obstacles 
 ## Gameplay
 
 
-https://github.com/user-attachments/assets/f2ad0db3-51c2-4799-8df3-af70ffc893f8
+
+
+https://github.com/user-attachments/assets/8db774fa-a4ce-4989-bd69-7bbaaab22d6f
+
+
 
 
 
